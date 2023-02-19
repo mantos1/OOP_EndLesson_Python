@@ -4,7 +4,7 @@ from Lesson_7.MultModel import MultModel
 from Lesson_7.DiffModel import DiffModel
 from Lesson_7.DivideModel import DivideModel
 from Lesson_7.View import View
-qz
+
 def main_():
     p = Presenter(SumModel(), View(), "sum")
     p.buttonClick()
